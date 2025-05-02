@@ -1,0 +1,755 @@
+{
+    "IndicaDominant": [
+        {
+            "name": "Jamaican Red",
+            "rarity": 2,
+            "level": [
+                {
+                    "price": 1500
+                }
+            ]
+        },
+        {
+            "name": "Panama Red",
+            "rarity": 3,
+            "level": [
+                {
+                    "price": 1200
+                }
+            ]
+        },
+        {
+            "name": "Northern Lights",
+            "rarity": 19,
+            "level": [
+                {
+                    "price": 916
+                }
+            ]
+        },
+        {
+            "name": "Granddaddy Purple",
+            "rarity": 5,
+            "level": [
+                {
+                    "price": 1130
+                }
+            ]
+        },
+        {
+            "name": "Bubba Kush",
+            "rarity": 16,
+            "level": [
+                {
+                    "price": 676
+                }
+            ]
+        },
+        {
+            "name": "Hindu Kush",
+            "rarity": 27,
+            "level": [
+                {
+                    "price": 616
+                }
+            ]
+        },
+        {
+            "name": "Ice Cream Cake",
+            "rarity": 21,
+            "level": [
+                {
+                    "price": 632
+                }
+            ]
+        },
+        {
+            "name": "Purple Kush",
+            "rarity": 19,
+            "level": [
+                {
+                    "price": 1011
+                }
+            ]
+        },
+        {
+            "name": "Grape Ape",
+            "rarity": 22,
+            "level": [
+                {
+                    "price": 785
+                }
+            ]
+        },
+        {
+            "name": "Critical Mass",
+            "rarity": 18,
+            "level": [
+                {
+                    "price": 1109
+                }
+            ]
+        },
+        {
+            "name": "Master Kush",
+            "rarity": 17,
+            "level": [
+                {
+                    "price": 1111
+                }
+            ]
+        },
+        {
+            "name": "Afghan Kush",
+            "rarity": 11,
+            "level": [
+                {
+                    "price": 810
+                }
+            ]
+        },
+        {
+            "name": "LA Confidential",
+            "rarity": 15,
+            "level": [
+                {
+                    "price": 1149
+                }
+            ]
+        },
+        {
+            "name": "Platinum Kush",
+            "rarity": 24,
+            "level": [
+                {
+                    "price": 1005
+                }
+            ]
+        },
+        {
+            "name": "Pink Kush",
+            "rarity": 9,
+            "level": [
+                {
+                    "price": 763
+                }
+            ]
+        },
+        {
+            "name": "9 Pound Hammer",
+            "rarity": 32,
+            "level": [
+                {
+                    "price": 642
+                }
+            ]
+        },
+        {
+            "name": "Blackberry Kush",
+            "rarity": 26,
+            "level": [
+                {
+                    "price": 1115
+                }
+            ]
+        },
+        {
+            "name": "Death Bubba",
+            "rarity": 11,
+            "level": [
+                {
+                    "price": 698
+                }
+            ]
+        },
+        {
+            "name": "God's Gift",
+            "rarity": 29,
+            "level": [
+                {
+                    "price": 978
+                }
+            ]
+        },
+        {
+            "name": "Mendo Breath",
+            "rarity": 12,
+            "level": [
+                {
+                    "price": 656
+                }
+            ]
+        },
+        {
+            "name": "Skywalker OG",
+            "rarity": 12,
+            "level": [
+                {
+                    "price": 859
+                }
+            ]
+        },
+        {
+            "name": "Kosher Kush",
+            "rarity": 7,
+            "level": [
+                {
+                    "price": 753
+                }
+            ]
+        },
+        {
+            "name": "Tahoe OG",
+            "rarity": 22,
+            "level": [
+                {
+                    "price": 1056
+                }
+            ]
+        },
+        {
+            "name": "Purple Urkle",
+            "rarity": 36,
+            "level": [
+                {
+                    "price": 809
+                }
+            ]
+        },
+        {
+            "name": "King Louis XIII",
+            "rarity": 38,
+            "level": [
+                {
+                    "price": 982
+                }
+            ]
+        },
+        {
+            "name": "Do-Si-Dos",
+            "rarity": 27,
+            "level": [
+                {
+                    "price": 934
+                }
+            ]
+        },
+        {
+            "name": "Romulan",
+            "rarity": 34,
+            "level": [
+                {
+                    "price": 1150
+                }
+            ]
+        }
+    ],
+    "SativaDominant": [
+        {
+            "name": "Kali Mist",
+            "rarity": 4,
+            "level": [
+                {
+                    "price": 1000
+                }
+            ]
+        },
+        {
+            "name": "Thai Stick",
+            "rarity": 3,
+            "level": [
+                {
+                    "price": 1100
+                }
+            ]
+        },
+        {
+            "name": "Acapulco Gold",
+            "rarity": 2,
+            "level": [
+                {
+                    "price": 1300
+                }
+            ]
+        },
+        {
+            "name": "Sour Diesel",
+            "rarity": 18,
+            "level": [
+                {
+                    "price": 1083
+                }
+            ]
+        },
+        {
+            "name": "Green Crack",
+            "rarity": 25,
+            "level": [
+                {
+                    "price": 875
+                }
+            ]
+        },
+        {
+            "name": "Jack Herer",
+            "rarity": 7,
+            "level": [
+                {
+                    "price": 1232
+                }
+            ]
+        },
+        {
+            "name": "Super Silver Haze",
+            "rarity": 29,
+            "level": [
+                {
+                    "price": 1101
+                }
+            ]
+        },
+        {
+            "name": "Durban Poison",
+            "rarity": 22,
+            "level": [
+                {
+                    "price": 1130
+                }
+            ]
+        },
+        {
+            "name": "Strawberry Cough",
+            "rarity": 15,
+            "level": [
+                {
+                    "price": 1054
+                }
+            ]
+        },
+        {
+            "name": "Lemon Haze",
+            "rarity": 8,
+            "level": [
+                {
+                    "price": 1113
+                }
+            ]
+        },
+        {
+            "name": "Pineapple Express",
+            "rarity": 18,
+            "level": [
+                {
+                    "price": 960
+                }
+            ]
+        },
+        {
+            "name": "Maui Wowie",
+            "rarity": 20,
+            "level": [
+                {
+                    "price": 1023
+                }
+            ]
+        },
+        {
+            "name": "Chocolope",
+            "rarity": 14,
+            "level": [
+                {
+                    "price": 1076
+                }
+            ]
+        },
+        {
+            "name": "Alaskan Thunder Fuck",
+            "rarity": 17,
+            "level": [
+                {
+                    "price": 915
+                }
+            ]
+        },
+        {
+            "name": "Blue Dream",
+            "rarity": 13,
+            "level": [
+                {
+                    "price": 1103
+                }
+            ]
+        },
+        {
+            "name": "Ghost Train Haze",
+            "rarity": 11,
+            "level": [
+                {
+                    "price": 1082
+                }
+            ]
+        },
+        {
+            "name": "Trainwreck",
+            "rarity": 23,
+            "level": [
+                {
+                    "price": 1045
+                }
+            ]
+        },
+        {
+            "name": "Amnesia Haze",
+            "rarity": 9,
+            "level": [
+                {
+                    "price": 1194
+                }
+            ]
+        },
+        {
+            "name": "Chernobyl",
+            "rarity": 26,
+            "level": [
+                {
+                    "price": 1061
+                }
+            ]
+        },
+        {
+            "name": "J1",
+            "rarity": 16,
+            "level": [
+                {
+                    "price": 1129
+                }
+            ]
+        },
+        {
+            "name": "Tangie",
+            "rarity": 12,
+            "level": [
+                {
+                    "price": 1017
+                }
+            ]
+        },
+        {
+            "name": "Island Sweet Skunk",
+            "rarity": 33,
+            "level": [
+                {
+                    "price": 977
+                }
+            ]
+        },
+        {
+            "name": "Panama Red",
+            "rarity": 20,
+            "level": [
+                {
+                    "price": 963
+                }
+            ]
+        },
+        {
+            "name": "Colombian Gold",
+            "rarity": 18,
+            "level": [
+                {
+                    "price": 1080
+                }
+            ]
+        }
+    ],
+    "Hybrid": [
+        {
+            "name": "White Widow",
+            "rarity": 5,
+            "level": [
+                {
+                    "price": 900
+                }
+            ]
+        },
+        {
+            "name": "G-13",
+            "rarity": 4,
+            "level": [
+                {
+                    "price": 800
+                }
+            ]
+        },
+        {
+            "name": "The Kind",
+            "rarity": 3,
+            "level": [
+                {
+                    "price": 700
+                }
+            ]
+        },
+        {
+            "name": "Midwest Best",
+            "rarity": 3,
+            "level": [
+                {
+                    "price": 850
+                }
+            ]
+        },
+        {
+            "name": "Apollo 13",
+            "rarity": 2,
+            "level": [
+                {
+                    "price": 950
+                }
+            ]
+        },
+        {
+            "name": "La Canna",
+            "rarity": 2,
+            "level": [
+                {
+                    "price": 1200
+                }
+            ]
+        },
+        {
+            "name": "5-0",
+            "rarity": 5,
+            "level": [
+                {
+                    "price": 1400
+                }
+            ]
+        },
+        {
+            "name": "Pakalolo",
+            "rarity": 4,
+            "level": [
+                {
+                    "price": 1000
+                }
+            ]
+        },
+        {
+            "name": "Chronic",
+            "rarity": 4,
+            "level": [
+                {
+                    "price": 950
+                }
+            ]
+        },
+        {
+            "name": "KGB",
+            "rarity": 3,
+            "level": [
+                {
+                    "price": 800
+                }
+            ]
+        },
+        {
+            "name": "AK-47",
+            "rarity": 2,
+            "level": [
+                {
+                    "price": 950
+                }
+            ]
+        },
+        {
+            "name": "Sensi Kush",
+            "rarity": 5,
+            "level": [
+                {
+                    "price": 1500
+                }
+            ]
+        },
+        {
+            "name": "Pacific Blue",
+            "rarity": 3,
+            "level": [
+                {
+                    "price": 1100
+                }
+            ]
+        },
+        {
+            "name": "Dank",
+            "rarity": 4,
+            "level": [
+                {
+                    "price": 1200
+                }
+            ]
+        },
+        {
+            "name": "Bomb",
+            "rarity": 4,
+            "level": [
+                {
+                    "price": 1000
+                }
+            ]
+        },
+        {
+            "name": "Apple Fritter",
+            "rarity": 33,
+            "level": [
+                {
+                    "price": 970
+                }
+            ]
+        },
+        {
+            "name": "OG Kush",
+            "rarity": 8,
+            "level": [
+                {
+                    "price": 1180
+                }
+            ]
+        },
+        {
+            "name": "Girl Scout Cookies",
+            "rarity": 10,
+            "level": [
+                {
+                    "price": 1095
+                }
+            ]
+        },
+        {
+            "name": "Wedding Cake",
+            "rarity": 14,
+            "level": [
+                {
+                    "price": 1137
+                }
+            ]
+        },
+        {
+            "name": "Runtz",
+            "rarity": 11,
+            "level": [
+                {
+                    "price": 1085
+                }
+            ]
+        },
+        {
+            "name": "Gelato",
+            "rarity": 8,
+            "level": [
+                {
+                    "price": 1180
+                }
+            ]
+        },
+        {
+            "name": "Zkittlez",
+            "rarity": 19,
+            "level": [
+                {
+                    "price": 1079
+                }
+            ]
+        },
+        {
+            "name": "Blueberry",
+            "rarity": 9,
+            "level": [
+                {
+                    "price": 1154
+                }
+            ]
+        },
+        {
+            "name": "Animal Cookies",
+            "rarity": 14,
+            "level": [
+                {
+                    "price": 1105
+                }
+            ]
+        },
+        {
+            "name": "Biscotti",
+            "rarity": 10,
+            "level": [
+                {
+                    "price": 1039
+                }
+            ]
+        },
+        {
+            "name": "Gorilla Glue #4",
+            "rarity": 7,
+            "level": [
+                {
+                    "price": 1136
+                }
+            ]
+        },
+        {
+            "name": "Sunset Sherbet",
+            "rarity": 13,
+            "level": [
+                {
+                    "price": 1160
+                }
+            ]
+        },
+        {
+            "name": "Ice",
+            "rarity": 25,
+            "level": [
+                {
+                    "price": 1047
+                }
+            ]
+        },
+        {
+            "name": "Slurricane",
+            "rarity": 10,
+            "level": [
+                {
+                    "price": 1063
+                }
+            ]
+        },
+        {
+            "name": "Chemdawg",
+            "rarity": 5,
+            "level": [
+                {
+                    "price": 1108
+                }
+            ]
+        },
+        {
+            "name": "Mimosa",
+            "rarity": 12,
+            "level": [
+                {
+                    "price": 1109
+                }
+            ]
+        },
+        {
+            "name": "Thin Mint GSC",
+            "rarity": 17,
+            "level": [
+                {
+                    "price": 1013
+                }
+            ]
+        }
+    ]
+}
